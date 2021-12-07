@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @booleanBoy
+- 👀 I’m interested in Educational Software, React and Retro Computers & Console Modding
+- 🌱 I’m currently learning Embedded Systems (Arduino and ESP32)
+- 💞️ I’m looking to collaborate on whatever you've got
+- 📫 How to reach me: Twitter @booleanBoy
